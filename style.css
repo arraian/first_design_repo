@@ -1,0 +1,19 @@
+.inner{
+    width:1170px;
+    margin: auto;
+    border: 1px solid black;
+}
+ .clear{
+    clear: both;
+ }
+.col{
+    width: 23%;
+    margin:1%;
+    background-color: #ccc;
+   
+    float: left;
+    text-align: center;
+}
+.col img{
+    width: 100%;
+}
